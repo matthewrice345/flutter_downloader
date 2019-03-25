@@ -10,7 +10,6 @@ import androidx.core.content.FileProvider;
 import java.io.File;
 import java.util.List;
 
-import android.util.Log;
 import android.os.Build;
 
 public class IntentUtils {
